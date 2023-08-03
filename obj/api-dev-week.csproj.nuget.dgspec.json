@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\PROJETOS\\DIO\\PROJETOS\\api-dev-week\\api-dev-week.csproj": {}
+    "D:\\GitHub-Projets\\Dio.me\\api-dev-week\\api-dev-week.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\PROJETOS\\DIO\\PROJETOS\\api-dev-week\\api-dev-week.csproj": {
+    "D:\\GitHub-Projets\\Dio.me\\api-dev-week\\api-dev-week.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\PROJETOS\\DIO\\PROJETOS\\api-dev-week\\api-dev-week.csproj",
+        "projectUniqueName": "D:\\GitHub-Projets\\Dio.me\\api-dev-week\\api-dev-week.csproj",
         "projectName": "api-dev-week",
-        "projectPath": "D:\\Dev\\PROJETOS\\DIO\\PROJETOS\\api-dev-week\\api-dev-week.csproj",
-        "packagesPath": "C:\\Users\\claudio.oliveira\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\PROJETOS\\DIO\\PROJETOS\\api-dev-week\\obj\\",
+        "projectPath": "D:\\GitHub-Projets\\Dio.me\\api-dev-week\\api-dev-week.csproj",
+        "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub-Projets\\Dio.me\\api-dev-week\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\claudio.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -65,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }
