@@ -11,9 +11,23 @@ public class PersonController : ControllerBase
     public Pessoa Get()
     {
         Pessoa pessoa = new Pessoa("claudio", 30, "12345678");
-        Contrato novoContrato = new Contrato();
+        Contrato novoContrato = new Contrato("abc123", 50.46);
+
         pessoa.contratos.Add(novoContrato);
 
         return pessoa;
     }
+
+    [HttpPost]
+    public Pessoa Post(Pessoa pessoa)
+    {
+        return pessoa;
+    }
+    [HttpPut("{id}")]
+    public string Update(int id)
+    {
+        
+        return "Dados do id " + id + " atualizados";
+    }
+
 }
