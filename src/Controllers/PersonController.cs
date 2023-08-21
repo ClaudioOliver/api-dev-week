@@ -25,11 +25,16 @@ public class PersonController : ControllerBase
         return pessoa;
     }
     [HttpPut("{id}")]
-    public string Update(int id)
+    public string Update([FromRoute]int id, [FromBody]Pessoa pessoa)
     {
-        Console.WriteLine(id);                              
-        return "Dados do id " + id + " atualizados";
-    
+        Console.WriteLine(id); 
+        Console.WriteLine(pessoa);                           
+        return "Dados do id " + id + " atualizados";    
     }
-
+    
+    [HttpDelete("{id}")]
+    public string Delete(int id){
+        return "deletado pessoa de Id " + id;
+    }
+    
 }
