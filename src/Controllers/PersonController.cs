@@ -27,8 +27,9 @@ public class PersonController : ControllerBase
     [HttpPut("{id}")]
     public string Update(int id)
     {
-        
+        Console.WriteLine(id);                              
         return "Dados do id " + id + " atualizados";
+    
     }
 
 }
