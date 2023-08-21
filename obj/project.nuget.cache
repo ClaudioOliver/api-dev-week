@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1geLojU4SbfyXzuEMIvkM2npYK4I+RqBa7hrEzvx3VGAexdJkd71M8oJwCEjS5IHFoobTXyF3lTgK2M92rJvmw==",
+  "dgSpecHash": "Nu2tqEVXaHF4h2ARNDr5nKNlyKBxPKuvUxBD4XnYRv9ETbSQciDvEvLX+Z0IeLUfqOHdtpH5FYUjY7Lb+x8wfg==",
   "success": true,
-  "projectFilePath": "D:\\GitHub-Projets\\Dio.me\\api-dev-week\\api-dev-week.csproj",
+  "projectFilePath": "D:\\Projetos\\api-dev-week\\api-dev-week.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\claud\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub-Projets\\Dio.me\\api-dev-week\\api-dev-week.csproj": {}
+    "D:\\Projetos\\api-dev-week\\api-dev-week.csproj": {}
   },
   "projects": {
-    "D:\\GitHub-Projets\\Dio.me\\api-dev-week\\api-dev-week.csproj": {
+    "D:\\Projetos\\api-dev-week\\api-dev-week.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub-Projets\\Dio.me\\api-dev-week\\api-dev-week.csproj",
+        "projectUniqueName": "D:\\Projetos\\api-dev-week\\api-dev-week.csproj",
         "projectName": "api-dev-week",
-        "projectPath": "D:\\GitHub-Projets\\Dio.me\\api-dev-week\\api-dev-week.csproj",
+        "projectPath": "D:\\Projetos\\api-dev-week\\api-dev-week.csproj",
         "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub-Projets\\Dio.me\\api-dev-week\\obj\\",
+        "outputPath": "D:\\Projetos\\api-dev-week\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config"
